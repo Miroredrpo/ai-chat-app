@@ -1,0 +1,2 @@
+# Exclude the local dev proxy — Vercel uses api/v1.js instead
+server.js

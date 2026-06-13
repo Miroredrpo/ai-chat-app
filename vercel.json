@@ -1,0 +1,7 @@
+{
+  "framework": null,
+  "outputDirectory": ".",
+  "rewrites": [
+    { "source": "/api/v1/:path*", "destination": "/api/v1" }
+  ]
+}

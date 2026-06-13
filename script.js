@@ -60,7 +60,7 @@ class OpenRouter {
     // SECTION 1: CONSTANTS & STATE
     // ─────────────────────────────────────────────────────────────────────────────
 
-    const API_BASE_URL_DEFAULT = 'http://localhost:8787/api/v1';
+    const API_BASE_URL_DEFAULT = '/api/v1';
     const LEGACY_API_BASE_URL = 'https://ai.nirvaan.hackclub.app/api/v1';
     const MODELS_CACHE_TTL = 60 * 60 * 1000; // 1 hour
 
