@@ -1,0 +1,17 @@
+{
+  "system_prompt": "You are a helpful assistant. Always be concise and friendly.",
+  "chat_model": "anthropic/claude-sonnet-4-5",
+  "title_model": "openai/gpt-4o-mini",
+  "max_tokens": 4096,
+  "temperature": 0.7,
+  "thinking_mode": false,
+  "thinking_budget": 8000,
+  "stream": true,
+  "show_token_count": true,
+  "enter_to_send": true,
+  "auto_title": true,
+  "compact_mode": false,
+  "font_size": 14,
+  "code_theme": "dark",
+  "base_url": "http://localhost:8787/api/v1"
+}
