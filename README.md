@@ -108,7 +108,7 @@ The default model is **Claude Sonnet 4.5**. Change it any time from the model se
 
 ## Use in vercel
 
-Go to : **fuddigai.vercel.app**
+Go to : [FuddiGAI](fuddigai.vercel.app)
 
 ## Privacy
 
